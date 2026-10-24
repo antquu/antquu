@@ -64,13 +64,13 @@
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Sun 18 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Mon 19 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 20 Oct        3 commits   █████████████████████████
   Wed 21 Oct         1 commit   ████████░░░░░░░░░░░░░░░░░
   Thu 22 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 23 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 24 Oct        3 commits   █████████████████████████
+  Sun 25 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreGo                       57 min ago
-  ▸ merged a pull request on GreGo                 57 min ago
-  ▸ opened a pull request on GreGo                 58 min ago
-  ▸ pushed 1 commit to GreLines                       4 h ago
-  ▸ pushed 1 commit to googlant                      12 h ago
+  ▸ pushed 1 commit to GreGo                          3 h ago
+  ▸ merged a pull request on GreGo                    3 h ago
+  ▸ opened a pull request on GreGo                    3 h ago
+  ▸ pushed 1 commit to GreLines                       6 h ago
+  ▸ pushed 1 commit to googlant                      15 h ago
 
-  last sync 24 Oct 2026 · 23:43 (Paris) · refreshed by a GitHub Action
+  last sync 25 Oct 2026 · 01:57 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
