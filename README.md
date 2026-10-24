@@ -55,12 +55,12 @@
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           2.9 MB   █████████████████████░░░░   84.35 %
-  CSS                184.7 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-  PLpgSQL            146.2 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-  JavaScript         140.1 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+  TypeScript           2.9 MB   █████████████████████░░░░   84.14 %
+  CSS                184.7 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+  PLpgSQL            146.2 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+  JavaScript         140.1 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
   HTML                33.3 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -89,7 +89,7 @@
   ▸ pushed 1 commit to googlant                       3 d ago
   ▸ pushed 1 commit to googlant                       3 d ago
 
-  last sync 24 Oct 2026 · 21:06 (Paris) · refreshed by a GitHub Action
+  last sync 24 Oct 2026 · 21:08 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
