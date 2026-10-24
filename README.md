@@ -51,7 +51,7 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 10   stars ▸ 13   followers ▸ 3   commits 2026 ▸ 157
+  repos ▸ 10   stars ▸ 13   followers ▸ 3   commits 2026 ▸ 160
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -70,26 +70,26 @@
   Wed 21 Oct         1 commit   ████████░░░░░░░░░░░░░░░░░
   Thu 22 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 23 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Sat 24 Oct        2 commits   ████████████████▒░░░░░░░░
+  Sat 24 Oct        3 commits   █████████████████████████
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          10 commits   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-  Daytime           7 commits   ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
-  Evening          24 commits   ██████████████▒░░░░░░░░░░   58.54 %
+  Morning          10 commits   █████▓░░░░░░░░░░░░░░░░░░░   23.81 %
+  Daytime           7 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+  Evening          25 commits   ██████████████▓░░░░░░░░░░   59.52 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreLines                       1 h ago
-  ▸ pushed 1 commit to googlant                      10 h ago
-  ▸ pushed 1 commit to googlant                       3 d ago
-  ▸ pushed 1 commit to googlant                       3 d ago
-  ▸ pushed 1 commit to googlant                       3 d ago
+  ▸ pushed 1 commit to GreGo                        5 min ago
+  ▸ merged a pull request on GreGo                  5 min ago
+  ▸ opened a pull request on GreGo                  5 min ago
+  ▸ pushed 1 commit to GreLines                       3 h ago
+  ▸ pushed 1 commit to googlant                      11 h ago
 
-  last sync 24 Oct 2026 · 21:08 (Paris) · refreshed by a GitHub Action
+  last sync 24 Oct 2026 · 22:50 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
