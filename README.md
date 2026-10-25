@@ -65,31 +65,31 @@
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   Mon 19 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Tue 20 Oct        3 commits   █████████████████████████
-  Wed 21 Oct         1 commit   ████████░░░░░░░░░░░░░░░░░
+  Tue 20 Oct        3 commits   ██████████████████▓░░░░░░
+  Wed 21 Oct         1 commit   ██████░░░░░░░░░░░░░░░░░░░
   Thu 22 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 23 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Sat 24 Oct        3 commits   █████████████████████████
+  Sat 24 Oct        4 commits   █████████████████████████
   Sun 25 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          10 commits   █████▓░░░░░░░░░░░░░░░░░░░   23.81 %
-  Daytime           7 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
-  Evening          25 commits   ██████████████▓░░░░░░░░░░   59.52 %
+  Morning          11 commits   ██████░░░░░░░░░░░░░░░░░░░   25.58 %
+  Daytime           7 commits   ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+  Evening          25 commits   ██████████████▒░░░░░░░░░░   58.14 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreGo                         12 h ago
-  ▸ merged a pull request on GreGo                   12 h ago
-  ▸ opened a pull request on GreGo                   12 h ago
-  ▸ pushed 1 commit to GreLines                      15 h ago
   ▸ pushed 1 commit to googlant                       1 d ago
+  ▸ pushed 1 commit to GreGo                         16 h ago
+  ▸ merged a pull request on GreGo                   16 h ago
+  ▸ opened a pull request on GreGo                   16 h ago
+  ▸ pushed 1 commit to GreLines                      20 h ago
 
-  last sync 25 Oct 2026 · 09:54 (Paris) · refreshed by a GitHub Action
+  last sync 25 Oct 2026 · 14:32 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
