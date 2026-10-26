@@ -51,26 +51,26 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 8   stars ▸ 12   followers ▸ 3   commits 2026 ▸ 161
+  repos ▸ 9   stars ▸ 12   followers ▸ 3   commits 2026 ▸ 162
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           2.9 MB   █████████████████████░░░░   84.17 %
-  CSS                184.4 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-  PLpgSQL            146.2 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-  JavaScript         139.4 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-  HTML                33.3 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+  TypeScript           2.9 MB   ████████████████████░░░░░   80.33 %
+  CSS                216.9 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+  JavaScript         202.0 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+  HTML               105.8 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Mon 19 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 20 Oct        3 commits   ███████████████░░░░░░░░░░
   Wed 21 Oct         1 commit   █████░░░░░░░░░░░░░░░░░░░░
   Thu 22 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 23 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 24 Oct        5 commits   █████████████████████████
   Sun 25 Oct         1 commit   █████░░░░░░░░░░░░░░░░░░░░
+  Mon 26 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
@@ -84,12 +84,12 @@
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   ▸ pushed 1 commit to antquu                         1 d ago
-  ▸ pushed 1 commit to googlant                       3 h ago
+  ▸ pushed 1 commit to googlant                       5 h ago
   ▸ pushed 1 commit to googlant                       1 d ago
   ▸ pushed 1 commit to GreGo                          1 d ago
   ▸ merged a pull request on GreGo                    1 d ago
 
-  last sync 25 Oct 2026 · 23:15 (Paris) · refreshed by a GitHub Action
+  last sync 26 Oct 2026 · 01:31 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
