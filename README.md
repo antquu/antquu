@@ -51,16 +51,16 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 9   stars ▸ 12   followers ▸ 3   commits 2026 ▸ 162
+  repos ▸ 9   stars ▸ 12   followers ▸ 3   commits 2026 ▸ 165
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           2.9 MB   ████████████████████░░░░░   80.33 %
-  CSS                216.9 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-  JavaScript         202.0 KB   █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-  HTML               105.8 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+  TypeScript           2.9 MB   ███████████████████▓░░░░░   79.55 %
+  JavaScript         229.1 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+  CSS                219.6 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+  HTML               112.0 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -70,26 +70,26 @@
   Fri 23 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 24 Oct        5 commits   █████████████████████████
   Sun 25 Oct         1 commit   █████░░░░░░░░░░░░░░░░░░░░
-  Mon 26 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Mon 26 Oct        2 commits   ██████████░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          11 commits   ██████░░░░░░░░░░░░░░░░░░░   24.44 %
-  Daytime           7 commits   ███▓░░░░░░░░░░░░░░░░░░░░░   15.56 %
-  Evening          27 commits   ███████████████░░░░░░░░░░   60.00 %
+  Morning          10 commits   █████▓░░░░░░░░░░░░░░░░░░░   23.81 %
+  Daytime           5 commits   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+  Evening          27 commits   ████████████████░░░░░░░░░   64.29 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+  ▸ pushed 1 commit to Imageshack                     2 h ago
+  ▸ pushed 1 commit to Imageshack                     3 h ago
   ▸ pushed 1 commit to antquu                         1 d ago
-  ▸ pushed 1 commit to googlant                      10 h ago
-  ▸ pushed 1 commit to googlant                       1 d ago
-  ▸ pushed 1 commit to GreGo                          1 d ago
-  ▸ merged a pull request on GreGo                    1 d ago
+  ▸ pushed 1 commit to googlant                      17 h ago
+  ▸ pushed 1 commit to googlant                       2 d ago
 
-  last sync 26 Oct 2026 · 06:43 (Paris) · refreshed by a GitHub Action
+  last sync 26 Oct 2026 · 13:09 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
