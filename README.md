@@ -51,16 +51,16 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 9   stars ▸ 12   followers ▸ 4   commits 2026 ▸ 165
+  repos ▸ 10   stars ▸ 14   followers ▸ 4   commits 2026 ▸ 167
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           2.9 MB   ███████████████████▓░░░░░   79.55 %
-  JavaScript         229.1 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-  CSS                219.6 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-  HTML               112.0 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.76 %
+  JavaScript         240.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+  CSS                238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+  HTML               112.6 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to Imageshack                     1 d ago
-  ▸ pushed 1 commit to Imageshack                     1 d ago
-  ▸ pushed 1 commit to Imageshack                     1 d ago
-  ▸ pushed 1 commit to Imageshack                     1 d ago
-  ▸ pushed 1 commit to antquu                         3 d ago
+  ▸ starred antquu/ExploreFly                      39 min ago
+  ▸ starred antquu/Imageshack                      39 min ago
+  ▸ released v1.0.1 of ExploreFly                  41 min ago
+  ▸ pushed 1 commit to Imageshack                     2 d ago
+  ▸ pushed 1 commit to Imageshack                     2 d ago
 
-  last sync 28 Oct 2026 · 00:02 (Paris) · refreshed by a GitHub Action
+  last sync 28 Oct 2026 · 16:32 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
