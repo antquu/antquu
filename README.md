@@ -51,15 +51,15 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 10   stars ▸ 14   followers ▸ 4   commits 2026 ▸ 167
+  repos ▸ 9   stars ▸ 13   followers ▸ 4   commits 2026 ▸ 167
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.76 %
-  JavaScript         240.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-  CSS                238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-  HTML               112.6 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.87 %
+  JavaScript         240.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+  CSS                238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+  HTML               112.6 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
   Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ starred antquu/ExploreFly                      39 min ago
-  ▸ starred antquu/Imageshack                      39 min ago
-  ▸ released v1.0.1 of ExploreFly                  41 min ago
+  ▸ starred antquu/ExploreFly                      49 min ago
+  ▸ starred antquu/Imageshack                      49 min ago
+  ▸ released v1.0.1 of ExploreFly                  51 min ago
   ▸ pushed 1 commit to Imageshack                     2 d ago
   ▸ pushed 1 commit to Imageshack                     2 d ago
 
-  last sync 28 Oct 2026 · 16:32 (Paris) · refreshed by a GitHub Action
+  last sync 28 Oct 2026 · 16:42 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
