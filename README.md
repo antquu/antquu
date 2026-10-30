@@ -68,15 +68,15 @@
   Sun 25 Oct         1 commit   █████░░░░░░░░░░░░░░░░░░░░
   Mon 26 Oct        4 commits   ████████████████████░░░░░
   Tue 27 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Wed 28 Oct         1 commit   █████░░░░░░░░░░░░░░░░░░░░
+  Wed 28 Oct        2 commits   ██████████░░░░░░░░░░░░░░░
   Thu 29 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 30 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          12 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.67 %
-  Daytime           6 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-  Evening          27 commits   ███████████████░░░░░░░░░░   60.00 %
+  Morning          12 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.09 %
+  Daytime           7 commits   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+  Evening          27 commits   ██████████████▒░░░░░░░░░░   58.70 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
@@ -84,12 +84,12 @@
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   ▸ pushed 1 commit to ExploreFly                     1 d ago
+  ▸ pushed 1 commit to ExploreFly                     1 d ago
   ▸ starred antquu/ExploreFly                         1 d ago
   ▸ starred antquu/Imageshack                         1 d ago
   ▸ released v1.0.1 of ExploreFly                     1 d ago
-  ▸ pushed 1 commit to Imageshack                     3 d ago
 
-  last sync 30 Oct 2026 · 00:28 (Paris) · refreshed by a GitHub Action
+  last sync 30 Oct 2026 · 10:31 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
