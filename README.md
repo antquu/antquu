@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+  ▸ opened a pull request on social-app               1 h ago
   ▸ pushed 1 commit to ExploreFly                     2 d ago
   ▸ pushed 1 commit to ExploreFly                     2 d ago
   ▸ starred antquu/ExploreFly                         2 d ago
   ▸ starred antquu/Imageshack                         2 d ago
-  ▸ released v1.0.1 of ExploreFly                     2 d ago
 
-  last sync 30 Oct 2026 · 17:30 (Paris) · refreshed by a GitHub Action
+  last sync 30 Oct 2026 · 21:59 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
