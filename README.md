@@ -51,16 +51,16 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 9   stars ▸ 13   followers ▸ 4   commits 2026 ▸ 167
+  repos ▸ 9   stars ▸ 13   followers ▸ 4   commits 2026 ▸ 170
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.87 %
-  JavaScript         240.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-  CSS                238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-  HTML               112.6 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+  TypeScript           3.1 MB   ███████████████████▓░░░░░   80.00 %
+  JavaScript         240.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+  CSS                238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+  HTML               114.0 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -74,9 +74,9 @@
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          12 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.67 %
-  Daytime           6 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
-  Evening          27 commits   ███████████████░░░░░░░░░░   60.00 %
+  Morning          12 commits   ███████░░░░░░░░░░░░░░░░░░   28.57 %
+  Daytime           5 commits   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+  Evening          25 commits   ██████████████▓░░░░░░░░░░   59.52 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
@@ -84,12 +84,12 @@
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   ▸ opened a pull request on social-app               1 d ago
-  ▸ pushed 1 commit to ExploreFly                     3 d ago
-  ▸ pushed 1 commit to ExploreFly                     3 d ago
-  ▸ starred antquu/ExploreFly                         3 d ago
-  ▸ starred antquu/Imageshack                         3 d ago
+  ▸ pushed 1 commit to ExploreFly                     4 d ago
+  ▸ pushed 1 commit to ExploreFly                     4 d ago
+  ▸ starred antquu/ExploreFly                         4 d ago
+  ▸ starred antquu/Imageshack                         4 d ago
 
-  last sync 01 Nov 2026 · 12:25 (Paris) · refreshed by a GitHub Action
+  last sync 01 Nov 2026 · 18:12 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
