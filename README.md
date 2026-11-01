@@ -74,9 +74,9 @@
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          12 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.09 %
-  Daytime           7 commits   ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
-  Evening          27 commits   ██████████████▒░░░░░░░░░░   58.70 %
+  Morning          12 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.67 %
+  Daytime           6 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.33 %
+  Evening          27 commits   ███████████████░░░░░░░░░░   60.00 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
@@ -89,7 +89,7 @@
   ▸ starred antquu/ExploreFly                         3 d ago
   ▸ starred antquu/Imageshack                         3 d ago
 
-  last sync 01 Nov 2026 · 00:55 (Paris) · refreshed by a GitHub Action
+  last sync 01 Nov 2026 · 12:25 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
