@@ -64,32 +64,32 @@
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Tue 27 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Wed 28 Oct        2 commits   █████████████████████████
   Thu 29 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 30 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 31 Oct        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Sun 01 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Sun 01 Nov         1 commit   ████████████▒░░░░░░░░░░░░
   Mon 02 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Tue 03 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning          12 commits   ████████░░░░░░░░░░░░░░░░░   32.43 %
-  Daytime           5 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-  Evening          20 commits   █████████████▒░░░░░░░░░░░   54.05 %
+  Morning          12 commits   ███████▓░░░░░░░░░░░░░░░░░   31.58 %
+  Daytime           6 commits   ███▓░░░░░░░░░░░░░░░░░░░░░   15.79 %
+  Evening          20 commits   █████████████░░░░░░░░░░░░   52.63 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a night owl
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ opened a pull request on social-app               2 d ago
+  ▸ pushed 1 commit to GreLines                       1 d ago
+  ▸ opened a pull request on social-app               3 d ago
   ▸ pushed 1 commit to ExploreFly                     5 d ago
   ▸ pushed 1 commit to ExploreFly                     5 d ago
   ▸ starred antquu/ExploreFly                         5 d ago
-  ▸ starred antquu/Imageshack                         5 d ago
 
-  last sync 02 Nov 2026 · 18:19 (Paris) · refreshed by a GitHub Action
+  last sync 03 Nov 2026 · 00:58 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
