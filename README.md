@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreLines                      23 h ago
-  ▸ pushed 1 commit to GreLines                       5 d ago
-  ▸ pushed 1 commit to GreLines                       5 d ago
+  ▸ pushed 1 commit to GreLines                       1 d ago
+  ▸ pushed 1 commit to GreLines                       6 d ago
+  ▸ pushed 1 commit to GreLines                       6 d ago
   ▸ opened a pull request on social-app               7 d ago
-  ▸ pushed 1 commit to ExploreFly                     9 d ago
+  ▸ pushed 1 commit to ExploreFly                    10 d ago
 
-  last sync 07 Nov 2026 · 12:14 (Paris) · refreshed by a GitHub Action
+  last sync 07 Nov 2026 · 17:56 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
