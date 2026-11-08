@@ -64,13 +64,13 @@
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Sun 01 Nov        2 commits   █████████████████████████
   Mon 02 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 03 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Wed 04 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Thu 05 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
-  Fri 06 Nov         1 commit   ████████████▒░░░░░░░░░░░░
+  Fri 06 Nov         1 commit   █████████████████████████
   Sat 07 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Sun 08 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
@@ -89,7 +89,7 @@
   ▸ opened a pull request on social-app               8 d ago
   ▸ pushed 1 commit to ExploreFly                    10 d ago
 
-  last sync 07 Nov 2026 · 21:40 (Paris) · refreshed by a GitHub Action
+  last sync 08 Nov 2026 · 01:09 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
