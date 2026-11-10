@@ -51,7 +51,7 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 9   stars ▸ 13   followers ▸ 4   commits 2026 ▸ 171
+  repos ▸ 9   stars ▸ 13   followers ▸ 3   commits 2026 ▸ 171
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -83,13 +83,13 @@
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreLines                       3 d ago
-  ▸ pushed 1 commit to GreLines                       8 d ago
-  ▸ pushed 1 commit to GreLines                       8 d ago
+  ▸ pushed 1 commit to GreLines                       4 d ago
+  ▸ pushed 1 commit to GreLines                       9 d ago
+  ▸ pushed 1 commit to GreLines                       9 d ago
   ▸ opened a pull request on social-app              10 d ago
-  ▸ pushed 1 commit to ExploreFly                    12 d ago
+  ▸ pushed 1 commit to ExploreFly                    13 d ago
 
-  last sync 10 Nov 2026 · 04:07 (Paris) · refreshed by a GitHub Action
+  last sync 10 Nov 2026 · 19:46 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
