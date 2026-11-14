@@ -51,16 +51,16 @@
 ```txt
 ━━ NUMBERS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  repos ▸ 9   stars ▸ 13   followers ▸ 3   commits 2026 ▸ 171
+  repos ▸ 9   stars ▸ 13   followers ▸ 3   commits 2026 ▸ 172
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.50 %
-  JavaScript         238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-  CSS                237.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-  HTML               114.0 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.67 %
+  JavaScript         238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+  CSS                237.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+  HTML               114.0 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+  Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -85,11 +85,11 @@
 
   ▸ pushed 1 commit to GreLines                       8 d ago
   ▸ pushed 1 commit to GreLines                      13 d ago
-  ▸ pushed 1 commit to GreLines                      12 d ago
+  ▸ pushed 1 commit to GreLines                      13 d ago
   ▸ opened a pull request on social-app              14 d ago
-  ▸ pushed 1 commit to ExploreFly                    16 d ago
+  ▸ pushed 1 commit to ExploreFly                    17 d ago
 
-  last sync 14 Nov 2026 · 14:54 (Paris) · refreshed by a GitHub Action
+  last sync 14 Nov 2026 · 19:55 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
