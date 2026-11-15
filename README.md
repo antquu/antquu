@@ -74,22 +74,22 @@
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning           7 commits   ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-  Daytime           5 commits   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-  Evening          16 commits   ██████████████░░░░░░░░░░░   57.14 %
+  Morning           7 commits   █████████░░░░░░░░░░░░░░░░   36.84 %
+  Daytime           5 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.32 %
+  Evening           7 commits   █████████░░░░░░░░░░░░░░░░   36.84 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
-  → mostly a night owl
+  → mostly a early bird
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   ▸ pushed 1 commit to GreLines                       9 d ago
   ▸ pushed 1 commit to GreLines                      14 d ago
   ▸ pushed 1 commit to GreLines                      14 d ago
-  ▸ opened a pull request on social-app              15 d ago
+  ▸ opened a pull request on social-app              16 d ago
   ▸ pushed 1 commit to ExploreFly                    18 d ago
 
-  last sync 15 Nov 2026 · 17:45 (Paris) · refreshed by a GitHub Action
+  last sync 15 Nov 2026 · 22:26 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
