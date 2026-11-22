@@ -86,10 +86,10 @@
   ▸ pushed 1 commit to GreLines                      16 d ago
   ▸ pushed 1 commit to GreLines                      21 d ago
   ▸ pushed 1 commit to GreLines                      21 d ago
-  ▸ opened a pull request on social-app              22 d ago
+  ▸ opened a pull request on social-app              23 d ago
   ▸ pushed 1 commit to ExploreFly                    25 d ago
 
-  last sync 22 Nov 2026 · 16:30 (Paris) · refreshed by a GitHub Action
+  last sync 22 Nov 2026 · 22:28 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
