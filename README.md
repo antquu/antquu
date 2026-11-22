@@ -64,13 +64,13 @@
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Sun 15 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Mon 16 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 17 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Wed 18 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Thu 19 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 20 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 21 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Sun 22 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
@@ -86,10 +86,10 @@
   ▸ pushed 1 commit to GreLines                      15 d ago
   ▸ pushed 1 commit to GreLines                      20 d ago
   ▸ pushed 1 commit to GreLines                      20 d ago
-  ▸ opened a pull request on social-app              21 d ago
+  ▸ opened a pull request on social-app              22 d ago
   ▸ pushed 1 commit to ExploreFly                    24 d ago
 
-  last sync 21 Nov 2026 · 20:37 (Paris) · refreshed by a GitHub Action
+  last sync 22 Nov 2026 · 01:02 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
