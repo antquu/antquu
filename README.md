@@ -74,9 +74,9 @@
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
-  Morning           6 commits   ██████████░░░░░░░░░░░░░░░   40.00 %
-  Daytime           5 commits   ████████░░░░░░░░░░░░░░░░░   33.33 %
-  Evening           4 commits   ██████▒░░░░░░░░░░░░░░░░░░   26.67 %
+  Morning           4 commits   ███████▒░░░░░░░░░░░░░░░░░   30.77 %
+  Daytime           5 commits   █████████▒░░░░░░░░░░░░░░░   38.46 %
+  Evening           4 commits   ███████▒░░░░░░░░░░░░░░░░░   30.77 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a early bird
@@ -89,7 +89,7 @@
   ▸ opened a pull request on social-app              23 d ago
   ▸ pushed 1 commit to ExploreFly                    25 d ago
 
-  last sync 23 Nov 2026 · 02:55 (Paris) · refreshed by a GitHub Action
+  last sync 23 Nov 2026 · 11:12 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
