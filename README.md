@@ -55,22 +55,22 @@
 
 ━━ LANGUAGES · ALL REPOSITORIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.67 %
-  JavaScript         238.5 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-  CSS                237.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-  HTML               114.0 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+  TypeScript           3.0 MB   ███████████████████▓░░░░░   79.71 %
+  JavaScript         239.9 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+  CSS                237.8 KB   █▒░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+  PLpgSQL            146.2 KB   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+  HTML               114.0 KB   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
   Go                  29.2 KB   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Thu 19 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 20 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sat 21 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sun 22 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Mon 23 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 24 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Wed 25 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Thu 26 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
@@ -89,7 +89,7 @@
   ▸ opened a pull request on social-app              26 d ago
   ▸ pushed 1 commit to ExploreFly                    28 d ago
 
-  last sync 25 Nov 2026 · 22:53 (Paris) · refreshed by a GitHub Action
+  last sync 26 Nov 2026 · 04:54 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
