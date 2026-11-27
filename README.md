@@ -64,32 +64,32 @@
 
 ━━ COMMITS · LAST 7 DAYS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  Sat 21 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Sun 22 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Mon 23 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Tue 24 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Wed 25 Nov         1 commit   █████████████████████████
   Thu 26 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
   Fri 27 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
+  Sat 28 Nov        0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ━━ WHEN I SHIP · LAST 30 DAYS · PARIS TIME ━━━━━━━━━━━━━━━━━━━━━
 
   Morning           0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-  Daytime           5 commits   ████████████████████▓░░░░   83.33 %
-  Evening            1 commit   ████░░░░░░░░░░░░░░░░░░░░░   16.67 %
+  Daytime           3 commits   ██████████████████▓░░░░░░   75.00 %
+  Evening            1 commit   ██████░░░░░░░░░░░░░░░░░░░   25.00 %
   Night             0 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 
   → mostly a early bird
 
 ━━ LATEST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ▸ pushed 1 commit to GreLines                       1 d ago
+  ▸ pushed 1 commit to GreLines                       2 d ago
   ▸ pushed 1 commit to GreLines                      21 d ago
   ▸ pushed 1 commit to GreLines                      26 d ago
   ▸ pushed 1 commit to GreLines                      26 d ago
-  ▸ opened a pull request on social-app              27 d ago
+  ▸ opened a pull request on social-app              28 d ago
 
-  last sync 27 Nov 2026 · 15:38 (Paris) · refreshed by a GitHub Action
+  last sync 28 Nov 2026 · 00:11 (Paris) · refreshed by a GitHub Action
 ```
 <!--LIVE:END-->
 
